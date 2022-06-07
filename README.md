@@ -1,4 +1,4 @@
-# WFP_task
+# WFP Data Science Assignemnt
 
 World food program Data Science Assignemnt task. To make this repository work, be sure to have Docker installed. After cloning this repository, run **docker build . --tag wfp:task** in the main folder to build the image.
 
